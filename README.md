@@ -9,7 +9,7 @@ The **User Management App** is a Node.js project designed to manage user account
   - Admin login for managing users.  
 
 - **User Profile Management**:  
-  - Create, update, view, and delete user profiles.  
+  - Create and view user profiles.  
 
 - **Admin Dashboard**:  
   - Admin can view, search, and edit user details.  
@@ -120,7 +120,7 @@ user-management-app/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Feel free to use and modify it as per your needs.
+This project is licensed under the **MIT License**.
 
 ## 🌟 Acknowledgements
 
